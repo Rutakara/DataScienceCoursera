@@ -1,2 +1,2 @@
 # DataScienceCoursera
-My coursera repo
+My coursera repo :pizza: :tada: :sparkles:
